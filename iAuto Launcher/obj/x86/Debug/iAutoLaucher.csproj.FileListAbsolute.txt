@@ -1,0 +1,9 @@
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\bin\Debug\iAuto_DarkMode.exe.config
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\bin\Debug\iAuto_DarkMode.exe
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\bin\Debug\iAuto_DarkMode.pdb
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\obj\x86\Debug\iAutoLaucher.csproj.AssemblyReference.cache
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\obj\x86\Debug\L.m.resources
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\obj\x86\Debug\iAutoLaucher.csproj.GenerateResource.cache
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\obj\x86\Debug\iAutoLaucher.csproj.CoreCompileInputs.cache
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\obj\x86\Debug\iAuto_DarkMode.exe
+E:\Config sever\Desktop\-iAuto-Src_net4.5_panelOK\-iAuto-Src\iAuto Launcher\obj\x86\Debug\iAuto_DarkMode.pdb

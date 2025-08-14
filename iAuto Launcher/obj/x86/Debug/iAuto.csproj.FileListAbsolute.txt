@@ -1,0 +1,9 @@
+E:\Config sever\Desktop\iAuto\bin\Debug\iAuto.exe.config
+E:\Config sever\Desktop\iAuto\bin\Debug\iAuto.exe
+E:\Config sever\Desktop\iAuto\bin\Debug\iAuto.pdb
+E:\Config sever\Desktop\iAuto\obj\x86\Debug\iAuto.csproj.AssemblyReference.cache
+E:\Config sever\Desktop\iAuto\obj\x86\Debug\iAuto.csproj.CoreCompileInputs.cache
+E:\Config sever\Desktop\iAuto\obj\x86\Debug\iAuto.exe
+E:\Config sever\Desktop\iAuto\obj\x86\Debug\iAuto.pdb
+E:\Config sever\Desktop\iAuto\obj\x86\Debug\L.m.resources
+E:\Config sever\Desktop\iAuto\obj\x86\Debug\iAuto.csproj.GenerateResource.cache

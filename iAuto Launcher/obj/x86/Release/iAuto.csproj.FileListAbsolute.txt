@@ -1,0 +1,25 @@
+C:\Users\ADMIN\Desktop\iAuto\bin\Release\iAuto.exe.config
+C:\Users\ADMIN\Desktop\iAuto\bin\Release\iAuto.exe
+C:\Users\ADMIN\Desktop\iAuto\bin\Release\iAuto.pdb
+C:\Users\ADMIN\Desktop\iAuto\obj\x86\Release\iAuto.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\iAuto\obj\x86\Release\iAuto.exe
+C:\Users\ADMIN\Desktop\iAuto\obj\x86\Release\iAuto.pdb
+C:\Users\ADMIN\Desktop\iAuto\obj\x86\Release\iAuto.csproj.AssemblyReference.cache
+E:\Config sever\Desktop\iAuto\iAuto\bin\Release\iAuto.exe.config
+E:\Config sever\Desktop\iAuto\iAuto\bin\Release\iAuto.exe
+E:\Config sever\Desktop\iAuto\iAuto\bin\Release\iAuto.pdb
+E:\Config sever\Desktop\iAuto\iAuto\obj\x86\Release\iAuto.csproj.AssemblyReference.cache
+E:\Config sever\Desktop\iAuto\iAuto\obj\x86\Release\L.m.resources
+E:\Config sever\Desktop\iAuto\iAuto\obj\x86\Release\iAuto.csproj.GenerateResource.cache
+E:\Config sever\Desktop\iAuto\iAuto\obj\x86\Release\iAuto.csproj.CoreCompileInputs.cache
+E:\Config sever\Desktop\iAuto\iAuto\obj\x86\Release\iAuto.exe
+E:\Config sever\Desktop\iAuto\iAuto\obj\x86\Release\iAuto.pdb
+E:\Config sever\Desktop\iAuto\bin\Release\iAuto.exe.config
+E:\Config sever\Desktop\iAuto\bin\Release\iAuto.exe
+E:\Config sever\Desktop\iAuto\bin\Release\iAuto.pdb
+E:\Config sever\Desktop\iAuto\obj\x86\Release\iAuto.csproj.AssemblyReference.cache
+E:\Config sever\Desktop\iAuto\obj\x86\Release\L.m.resources
+E:\Config sever\Desktop\iAuto\obj\x86\Release\iAuto.csproj.GenerateResource.cache
+E:\Config sever\Desktop\iAuto\obj\x86\Release\iAuto.csproj.CoreCompileInputs.cache
+E:\Config sever\Desktop\iAuto\obj\x86\Release\iAuto.exe
+E:\Config sever\Desktop\iAuto\obj\x86\Release\iAuto.pdb
