@@ -8,7 +8,7 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 + cố gắng đảm bảo mã nguồn đầu tiên dung lượng có kích thước nhỏ nhất
 
 # Logs
-+ kích thước giao diện cuối dự tính 500 x 192 pixel - đang tối ưu giao diện cuối
++ kích thước giao diện cuối dự tính 400 x 192 pixel - đang tối ưu giao diện cuối
 + giao dinệ chỉ gồm 2 màu đen trắng
 
 # Vui lòng tôn trọng nội dung tác giải đã tuyên bố - và quyền sở hữu nội dung - ghi chú nếu sử dụng lại nội dung đó bằng cách ghi tên tác giả ở phần ghi chú
