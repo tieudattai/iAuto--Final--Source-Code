@@ -32,3 +32,7 @@ net framework 4.8
 chạy ngay đối với win 10 win 11
 
 win 7 hoặc các win khác cần tải microsoft net framework 4.8
+
+mã nguồn mở hoàn toàn miễn phí phi lợi nhuận
+
+tuy nhiên phần server sẽ không public chúng ta chỉ có core chạy trên windows là public
