@@ -4,7 +4,7 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 
 + các tuyên bố hiển thị tuyên bố cuối trên đầu. khi đó các tuyên bố trước đó sẽ bị thay thế
 + giao diện chủ yếu dùng các từ tiếng anh - đảm bảo ai cũng có thể sử dụng - quốc tế
-+ 0.0.0.0 - Lần Phát hành đầu tiên sẽ ghi lại mốc khi ra mắt...
++ 0.0.0.0 - Lần Phát hành đầu tiên sẽ ghi lại mốc khi ra mắt... vào 0:0:0-15-8-2025
 + cố gắng đảm bảo mã nguồn đầu tiên dung lượng có kích thước nhỏ nhất
 
 # Logs
