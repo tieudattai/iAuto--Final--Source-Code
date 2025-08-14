@@ -1,5 +1,7 @@
 ﻿White - Page - Sác Trắng - Mô Tả
 
+tieudattai.org - Tiêu Dật Tài / BLog - iAuto
+
 cơ chế truyền tải dữ liệu với websocket ssl - đảm bảo hoạt động trên tất cả các trình duyệt
 
 datasbe sử dụn mysql - với các tối ưu nhất - thiết kế theo công thức độ đáo
