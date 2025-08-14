@@ -1,5 +1,7 @@
 ﻿White - Page - Sác Trắng - Mô Tả
 
+datasbe sử dụn mysql - với các tối ưu nhất - thiết kế theo công thức độ đáo
+
 lõi chính sử dụng bản 6. cuối cùng - đảm bảo hoạt động ổn định nhé - sau đó sẽ tiến hành hợp nhất tất cả các lõi để tạo lõi cuối
 
 Khác với tuyên bố ban đầu. Phần mềm vẫn có giao diện có hiển thị log và thông tin
