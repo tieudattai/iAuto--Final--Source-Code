@@ -6,7 +6,7 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 + giao diện chủ yếu dùng các từ tiếng anh - đảm bảo ai cũng có thể sử dụng - quốc tế
 + 0.0.0.0 - Lần Phát hành đầu tiên sẽ ghi lại mốc khi ra mắt... vào 0:0:0-15-8-2025
 + cố gắng đảm bảo mã nguồn đầu tiên dung lượng có kích thước nhỏ nhất
-+ phát triển với mục đích làm auto cho game thiên long bát bộ - sau đó tiến hóa phiên bản cuối
++ phát triển với mục đích làm auto cho game thiên long bát bộ - sau đó tiến hóa phiên bản cuối iAuto Final
 
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490
 
