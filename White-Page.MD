@@ -7,6 +7,9 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 + 0.0.0.0 - Lần Phát hành đầu tiên sẽ ghi lại mốc khi ra mắt...
 + cố gắng đảm bảo mã nguồn đầu tiên dung lượng có kích thước nhỏ nhất
 
+# Logs
++ kích thước giao diện cuối dự tính 500 x 192 pixel - đang tối ưu giao diện cuối
+
 # Vui lòng tôn trọng nội dung tác giải đã tuyên bố - và quyền sở hữu nội dung - ghi chú nếu sử dụng lại nội dung đó bằng cách ghi tên tác giả ở phần ghi chú
 
 cơ chế truyền tải dữ liệu với websocket ssl - đảm bảo hoạt động trên tất cả các trình duyệt
