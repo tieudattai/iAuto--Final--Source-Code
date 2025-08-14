@@ -2,6 +2,8 @@
 
 tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 
+# Vui lòng tôn trọng nội dung tác giải đã tuyên bố - và quyền sở hữu nội dung - ghi chú nếu sử dụng lại nội dung đó bằng cách ghi tên tác giả ở phần ghi chú
+
 cơ chế truyền tải dữ liệu với websocket ssl - đảm bảo hoạt động trên tất cả các trình duyệt
 
 datasbe sử dụn mysql - với các tối ưu nhất - thiết kế theo công thức độ đáo
