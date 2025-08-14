@@ -1,6 +1,6 @@
 ﻿White - Page - Sách Trắng - Mô Tả - 1 Phần Mềm Tối Ưu Nhất
 
-tieudattai.org - Tiêu Dật Tài / BLog - iAuto
+tieudattai.org - Tiêu Dật Tài / BLog - iAuto - tieudattai@yahoo.com
 
 + các tuyên bố hiển thị tuyên bố cuối trên đầu. khi đó các tuyên bố trước đó sẽ bị thay thế
 + giao diện chủ yếu dùng các từ tiếng anh - đảm bảo ai cũng có thể sử dụng - quốc tế
