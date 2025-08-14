@@ -12,7 +12,7 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 + Anti DDOS 100% - Real Time - No Bug - Auto Update - Live Mode - Cant Crack - Chip Wallet
 + Mục đíc là đưa Chip Lên tất cả các sàn. khi đó có thể quy đổi nhanh chóng bằng đơn vị chip
 
-# Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000 Trillion Chip
+# Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000.000 Trillion Chip
 
 # Logs
 + kích thước giao diện cuối dự tính 400 x 192 pixel - đang tối ưu giao diện cuối
