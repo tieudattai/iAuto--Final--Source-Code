@@ -13,6 +13,8 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 + Mục đíc là đưa Chip Lên tất cả các sàn. khi đó có thể quy đổi nhanh chóng bằng đơn vị chip
 + Thuật toán data base toàn ảnh - Vượt Tường Lửa - Chống Crack - Chống DDOS - Bruter Fore Logic - Vá Lỗi - Crack Phần Mềm Khác - Viết Auto Game Kiếm Tiền
 
+? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
+
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000.000 Trillion Chip
 
 # Logs
