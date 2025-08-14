@@ -1,5 +1,9 @@
 ﻿White - Page - Sác Trắng - Mô Tả
 
+Khác với tuyên bố ban đầu. Phần mềm vẫn có giao diện có hiển thị log và thông tin
+
+đồng thời cho phép đổi link core cho mọi người dễ dàng clone code
+
 1 file thực thi duy nhất
 
 bao gồm 20 dòng lệnh
