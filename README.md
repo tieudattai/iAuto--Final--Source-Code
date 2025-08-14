@@ -8,6 +8,8 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto
 + cố gắng đảm bảo mã nguồn đầu tiên dung lượng có kích thước nhỏ nhất
 + phát triển với mục đích làm auto cho game thiên long bát bộ - sau đó tiến hóa phiên bản cuối iAuto Final
 + chillin - feeling - enjoy moment
++ trang chủ chạy vĩnh viễn không bao giờ mất kết nối
++ Anti DDOS 100% - Real Time - No Bug - Auto Update - Live Mode
 
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490
 
