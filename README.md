@@ -2,7 +2,7 @@
 
  Mô tả
 
- Chân Thiện Mỹ - vượt qua sinh lão bệnh tử với 1 câu nói lý do nó tồn tại là vì nó chwua kết thúc. mọi việc cuối cùng cũng tốt đẹp. nếu nó chưa tốt đẹp nó chưa phải là cuối cùng
+ Chân Thiện Mỹ - vượt qua sinh lão bệnh tử với 1 câu nói lý do nó tồn tại là vì nó chưaa kết thúc. mọi việc cuối cùng cũng tốt đẹp. nếu nó chưa tốt đẹp nó chưa phải là cuối cùng
 
 tieudattai.org - Tiêu Dật Tài / BLog - iAuto - tieudattai@yahoo.com
 
