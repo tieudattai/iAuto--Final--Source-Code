@@ -19,6 +19,7 @@ Các Nghiên Cứu Mang tính chất tuyệt đối
 + Đạo Phật - KHi con người ta giác ngộ sẽ không còn khổ đau và hạnh phúc - niết bàn viên mãn
 + hiểu hết các ngôn ngứ lập trình khả kiến. đọc hiểu mọi ngôn ngữ lập trình
 + datasee toàn ảnh - cách thiết kế 1 cơ sở dữ liệu toàn ảnh - phá vỡ quy tắc bigdata khi sinh ra dữ liệu vô hạn
++ cơ chế tạo tiền kỹ thuật số - bitcoin vàng 2.0 cũng ko là gì - hiểu hết quy luật tạo và vận hành 1 đồng tiền tương tự
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
