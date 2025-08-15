@@ -14,6 +14,9 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto - tieudattai@yahoo.com
 + Thuật toán data base toàn ảnh - Vượt Tường Lửa - Chống Crack - Chống DDOS - Bruter Fore Logic - Vá Lỗi - Crack Phần Mềm Khác - Viết Auto Game Kiếm Tiền - Phương Thức Truyền Tải Dữ Liệu - Cách Giải Mã Dữ Liệu Bị Mã Hóa - Cách nén dữ liệu tối ưu nhât - Cách xây dựng tiền mã hóa bằng blockchain tạo bitcoin vàng 2.0
 + Trở thành tỷ phú bằng cách tự tạo tiền tệ để sở hữu
 
+Các Nghiên Cứu Mang tính chất tuyệt đối
++ DỊch Vũ Trụ - Coi Vũ Trụ là 1 thể dịch - Từn dó tạo ra vũ trụ toàn ảnh
+
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000.000 Trillion Chip
