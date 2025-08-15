@@ -35,7 +35,7 @@ Các cột mốc
 - ngay từ bé đã muốn trở thành hacker mũ xám
 
 Các mối quan hệ
-- Vợ - Huyền Chio
+- Vợ - Huyền Chíp
 - Người bạn duy nhất mang avartar nhân vật Kira trong tử ký - Ai cập - quen biết khi chơi thiên long phiên bản quốc tế https://www.facebook.com/muhammad.ashraf.606656
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
