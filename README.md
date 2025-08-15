@@ -44,6 +44,7 @@ Các dự án đang thiết kế
 
 Thương Hiệu Sở Hữu
 - Logo - l clock - chiếc đồng hồ của L - Nhân vật tử ký - death note - thám tử đỉnh nhất
+- avar tar được thiết kê đúng với ảnh cảu nhân vật L
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
