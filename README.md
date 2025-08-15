@@ -49,6 +49,7 @@ Thương Hiệu Sở Hữu
 
 Các phim nên xewm 1 lần trong đời
 - Death note - tử ký. nơi khởi nguồn của avatar và logo
+- thiên long bát bộ - game hay nhất - chơi để vui và kết nối với tác giả
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
