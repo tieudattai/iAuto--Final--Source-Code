@@ -38,6 +38,9 @@ Các mối quan hệ
 - Vợ - Huyền Chíp https://www.tiktok.com/@mi_mi6996
 - Người bạn duy nhất mang avartar nhân vật Kira trong tử ký - Ai cập - quen biết khi chơi thiên long phiên bản quốc tế https://www.facebook.com/muhammad.ashraf.606656
 
+Các dự án đang thiết kế
+- iCal - Máy tính lượng tử thay thế mọi máy tính
+
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000.000 Trillion Chip
