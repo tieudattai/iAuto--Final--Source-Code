@@ -60,6 +60,7 @@ Những suy nghĩ phi thường
 
 Ý nghĩa các thông tin
 1 - tên thật nguyễn duy hải - tức đại dương duy nhất - tên khai sinh
+2 - sinh ngày 02-10-1989 - 02 tháng 10 thực chất sắp xếp lại sẽ là 102 - độc nhất vô nhị
 
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000.000 Trillion Chip
 
