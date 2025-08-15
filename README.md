@@ -25,6 +25,9 @@ Các Nghiên Cứu Mang tính chất tuyệt đối
 + giác ngộ là khi con người ta cảm nhận được niềm vui và hạnh phúc - không còn khổ đau hoặc có khổ ddaaun cũng ko cảm thấy mất mát điều gì đó - khái niệm niết bàn - vô vi - vô ngã - vô ưu - vô lo -vui vẻ
 + con người ta có thể thông minh theo cấp số +, cấp số nhân, và suy nghĩ theo cấp số mũ - chỉ bằng cách suy nghĩ - cái đó gọi là chất xám - khi quá nhiều chất xám bị chảy máu - nó sẽ tiến hóa lên cấp số mũ - 100% sử dụng khả năng của não bộ
 
+Vòng lặp suy nghĩ
+- dẫu ngày mai lời hứa có khô cằn. không gì ngăn được sự trở lại của ta - dẫu phải làm giọt sương thấm đất - dẫu phải từ bỏ cả đất biển trời - cũng in dâng sự hi sinh thầm lặng - Loveless - tình yêu vĩnh hằng - món quà bý ẩn của nữ thần - chúng ta mải mê tìm kiếm - và bay theo về trời - lăn tăn gợn sóng mặt khơi - linh hồn lãng du không nghỉ ngơi - bạn của ta có cất cánh - cho 1 thế giới ruồng rẫy 2 ta - anh hùng ngày mới - kẻ hàn gắn thế gian...
+
   
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
