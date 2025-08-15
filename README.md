@@ -18,6 +18,7 @@ Các Nghiên Cứu Mang tính chất tuyệt đối
 + DỊch Vũ Trụ - Coi Vũ Trụ là 1 thể dịch - Từn dó tạo ra vũ trụ toàn ảnh
 + Đạo Phật - KHi con người ta giác ngộ sẽ không còn khổ đau và hạnh phúc - niết bàn viên mãn
 + hiểu hết các ngôn ngứ lập trình khả kiến. đọc hiểu mọi ngôn ngữ lập trình
++ datasee toàn ảnh - cách thiết kế 1 cơ sở dữ liệu toàn ảnh - phá vỡ quy tắc bigdata khi sinh ra dữ liệu vô hạn
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
