@@ -23,6 +23,7 @@ Các Nghiên Cứu Mang tính chất tuyệt đối
 + hiểu biết về tiền tệ - kiếm tiền chân chính - không kiếm tiền bất hợp pháp - sử dụng tùy mục đích - mọi sự ngu đều trả giá bằng tiền mặt
 + tính duy nhát của mỗi con người là tính cách - phẩm chất đạo đức - cùng nhiều yếu tố khác chứ không phải nhan sắc tàn úa theo thời gian
 + giác ngộ là khi con người ta cảm nhận được niềm vui và hạnh phúc - không còn khổ đau hoặc có khổ ddaaun cũng ko cảm thấy mất mát điều gì đó - khái niệm niết bàn - vô vi - vô ngã - vô ưu - vô lo -vui vẻ
++ con người ta có thể thông minh theo cấp số +, cấp số nhân, và suy nghĩ theo cấp số mũ - chỉ bằng cách suy nghĩ - cái đó gọi là chất xám - khi quá nhiều chất xám bị chảy máu - nó sẽ tiến hóa lên cấp số mũ - 100% sử dụng khả năng của não bộ
 
   
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
