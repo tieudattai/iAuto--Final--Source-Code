@@ -37,6 +37,7 @@ Các cột mốc
 Các mối quan hệ
 - Vợ - Huyền Chíp https://www.tiktok.com/@mi_mi6996
 - Người bạn duy nhất mang avartar nhân vật Kira trong tử ký - Ai cập - quen biết khi chơi thiên long phiên bản quốc tế https://www.facebook.com/muhammad.ashraf.606656
+- năm 36 tuổi đạt cấp độ tuyệt đói sau khi mất đi toàn bộ người thân yêu nhất
 
 Các dự án đang thiết kế
 - iCal - Máy tính lượng tử thay thế mọi máy tính
