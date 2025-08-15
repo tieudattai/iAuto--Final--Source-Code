@@ -52,7 +52,7 @@ Các phim nên xewm 1 lần trong đời
 - thiên long bát bộ - game hay nhất - chơi để vui và kết nối với tác giả
 
 Những suy nghĩ phi thường
-- hiểu hết cơ chế vận hành của ios, windows, linux... và hiểu vì sao nó trở nên phổ biến
+- hiểu hết cơ chế vận hành của ios, windows, linux... và hiểu vì sao nó trở nên phổ biến iauto final thực chất là hệ điều hành vượt qua mọi hệ điều hành phổ biến
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
