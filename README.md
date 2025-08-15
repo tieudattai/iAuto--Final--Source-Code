@@ -11,7 +11,8 @@ tieudattai.org - Tiêu Dật Tài / BLog - iAuto - tieudattai@yahoo.com
 + trang chủ chạy vĩnh viễn không bao giờ mất kết nối
 + Anti DDOS 100% - Real Time - No Bug - Auto Update - Live Mode - Cant Crack - Chip Wallet
 + Mục đích là đưa Chip Lên tất cả các sàn. khi đó có thể quy đổi nhanh chóng bằng đơn vị chip
-+ Thuật toán data base toàn ảnh - Vượt Tường Lửa - Chống Crack - Chống DDOS - Bruter Fore Logic - Vá Lỗi - Crack Phần Mềm Khác - Viết Auto Game Kiếm Tiền - Phương Thức Truyền Tải Dữ Liệu - Cách Giải Mã Dữ Liệu Bị Mã Hóa - Cách nén dữ liệu tối ưu nhât
++ Thuật toán data base toàn ảnh - Vượt Tường Lửa - Chống Crack - Chống DDOS - Bruter Fore Logic - Vá Lỗi - Crack Phần Mềm Khác - Viết Auto Game Kiếm Tiền - Phương Thức Truyền Tải Dữ Liệu - Cách Giải Mã Dữ Liệu Bị Mã Hóa - Cách nén dữ liệu tối ưu nhât - Cách xây dựng tiền mã hóa bằng blockchain tạo bitcoin vàng 2.0
++ Trở thành tỷ phú bằng cách tự tạo tiền tệ để sở hữu
 
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
