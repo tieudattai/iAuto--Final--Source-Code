@@ -28,7 +28,11 @@ Các Nghiên Cứu Mang tính chất tuyệt đối
 Vòng lặp suy nghĩ
 - dẫu ngày mai lời hứa có khô cằn. không gì ngăn được sự trở lại của ta - dẫu phải làm giọt sương thấm đất - dẫu phải từ bỏ cả đất biển trời - cũng xin dâng sự hi sinh thầm lặng - Loveless - tình yêu vĩnh hằng - món quà bý ẩn của nữ thần - chúng ta mải mê tìm kiếm - và bay theo về trời - lăn tăn gợn sóng mặt khơi - linh hồn lãng du không nghỉ ngơi - bạn của ta có cất cánh - cho 1 thế giới ruồng rẫy 2 ta - anh hùng ngày mới - kẻ hàn gắn thế gian...
 
-  
+Các cột mốc
+
+- Quá trình trầm luân kéo dài 14 năm với 28 lần vào trại tâm thần
+- kết thúc kiến thức cấp 2 - với độ chính xác toán học tuyệt đối
+
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
 
 # Tiêu Dật Tài - Nguyễn Duy Hải 02-10-1989 - 14C Ngõ 441 Điện Biên Phủ Hải Dương - 0975 716 490 - 1.000.000.000 Trillion Chip
