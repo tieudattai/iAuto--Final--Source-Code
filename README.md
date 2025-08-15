@@ -22,6 +22,7 @@ Các Nghiên Cứu Mang tính chất tuyệt đối
 + cơ chế tạo tiền kỹ thuật số - bitcoin vàng 2.0 cũng ko là gì - hiểu hết quy luật tạo và vận hành 1 đồng tiền tương tự
 + hiểu biết về tiền tệ - kiếm tiền chân chính - không kiếm tiền bất hợp pháp - sử dụng tùy mục đích - mọi sự ngu đều trả giá bằng tiền mặt
 + tính duy nhát của mỗi con người là tính cách - phẩm chất đạo đức - cùng nhiều yếu tố khác chứ không phải nhan sắc tàn úa theo thời gian
++ giác ngộ là khi con người ta cảm nhận được niềm vui và hạnh phúc - không còn khổ đau hoặc có khổ ddaaun cũng ko cảm thấy mất mát điều gì đó - khái niệm niết bàn - vô vi - vô ngã - vô ưu - vô lo -vui vẻ
 
   
 ? Cảnh báo - Nếu các bạn sử dụnng lại các yếu tố mang tính chất thương hiệu mà ko được sự cho phép khi không hỏi ý kiến trước - nguy cơ bạn sẽ bị tác giả xử lý theo 1 hình thức trừng phạt nào đó
