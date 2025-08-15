@@ -33,6 +33,7 @@ Các cột mốc
 - Quá trình trầm luân kéo dài 14 năm với 28 lần vào trại tâm thần
 - kết thúc kiến thức cấp 2 - với độ chính xác toán học tuyệt đối
 - ngay từ bé đã muốn trở thành hacker mũ xám
+- cung hoàng đạo thiên xứng - cán cân công lý - cân bằng tuyệt đói
 
 Các mối quan hệ
 - Vợ - Huyền Chíp https://www.tiktok.com/@mi_mi6996
