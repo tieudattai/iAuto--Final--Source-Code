@@ -3,6 +3,7 @@
  Mô tả
 
  Chân Thiện Mỹ - vượt qua sinh lão bệnh tử với 1 câu nói lý do nó tồn tại là vì nó chưaa kết thúc. mọi việc cuối cùng cũng tốt đẹp. nếu nó chưa tốt đẹp nó chưa phải là cuối cùng
+ Ký tự L là ký tự đại diện - Sở hữu ký tự L bằng cách tuyên bố quyền sở hữu
 
 tieudattai.org - Tiêu Dật Tài / BLog - iAuto - tieudattai@yahoo.com
 
